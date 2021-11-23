@@ -1,0 +1,8 @@
+.header-banner .logo {
+    background-color: #fff;
+    background-image: url("/img/Logo.png");
+    background: no-repeat;
+    text-align: left;
+    width: 100%;
+    height: 100px;
+}
