@@ -42,15 +42,12 @@ body {
 
 #task {
     color: #fff;
-    text-align: auto;
-    background-color: blue;
-    border-color: blue;
+    background-color: #5cb3ec;
+    border-color: #5cb3ec;
     border-style: solid;
     border-radius: 3px;
-    padding-left: 40px;
     margin-left: 40px;
-    float: left;
-    width: 40px;
+    width: 80px;
     height: 20px;
 
 }
