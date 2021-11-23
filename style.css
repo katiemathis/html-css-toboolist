@@ -42,10 +42,16 @@ body {
 
 #task {
     color: #fff;
+    text-align: auto;
     background-color: blue;
     border-color: blue;
     border-style: solid;
     border-radius: 3px;
+    padding-left: 40px;
+    margin-left: 40px;
+    float: left;
+    width: 40px;
+    height: 20px;
 
 }
 
