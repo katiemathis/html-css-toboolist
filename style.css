@@ -1,7 +1,6 @@
 body {
     background-color: lightgrey;
     margin: 0;
- 
 }
 
 .header-banner {
@@ -25,9 +24,14 @@ body {
     margin-top: 1.5%;
 }
 
-.container .w-btns {
+.container {
     background-color: #fff;
-    width: 50%;
-    height: 100px;
-    
+    margin: 50%;
 }
+
+.container .w-btns {
+    align-content: center;
+    height: 40px;
+    box-sizing: border-box;
+}
+
