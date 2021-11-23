@@ -86,9 +86,21 @@ body {
 }
 .done:before {
     content: "\2713"; 
+    width: 10px;
     color: green;
     display: inline-block;
     border: green;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;   
+}
+
+.to-do:before {
+    content: "\10102"; 
+    width: 10px;
+    color: red;
+    display: inline-block;
+    border: red;
     text-align: center;
     vertical-align: middle;
     border-radius: 50%;   
