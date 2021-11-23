@@ -24,3 +24,10 @@ body {
     font-style: bold;
     margin-top: 1.5%;
 }
+
+.container .w-btns {
+    background-color: #fff;
+    width: 50%;
+    height: 100px;
+    
+}
