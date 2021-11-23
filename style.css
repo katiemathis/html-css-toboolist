@@ -1,9 +1,10 @@
 body {
     background-color: lightgrey;
-    margin: 0;
+
 }
 
 .header-banner {
+    margin: 0;
     background-color: #fff;
     width: 100%;
     height: 80px;
@@ -29,6 +30,7 @@ body {
 }
 
 .container .w-btns {
+    padding-top: 50px;
     height: 40px;
 }
 
