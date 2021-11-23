@@ -1,5 +1,5 @@
 body {
-    background-color: lightgrey;
+    background-color: #F6F8F9;
     margin: 0;
 }
 
@@ -26,15 +26,16 @@ body {
 
 .container {
     background-color: #fff;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .w-btns {
     padding-top: 50px;
-    width: 50%;
     height: 25px;
-    margin-left: auto;
-    margin-right: auto;
     margin-top: 25px;
+    margin-bottom: 0;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
@@ -55,3 +56,10 @@ body {
     border-radius: 3px;    
 }
 
+.main-list {
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
