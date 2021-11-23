@@ -90,10 +90,12 @@ body {
 }
 
 .itemized {
-    font-size: 15px;
+    font-size: 12px;
     font-style: normal;
     font-weight: 300;
     list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
 .done:before {
     content: "\2713"; 
