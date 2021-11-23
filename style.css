@@ -107,25 +107,28 @@ li {
 }
 .done:before {
     content: "\2713"; 
-    color: #1e941e;
+    font-size: 8px;
+    color: #81d4ad;
     display: inline-block;
-    width: 15px;
-    height: 15px;
+    width: 10px;
+    height: 10px;
     background-color: white;
-    border-block-start-color: #1e941e;
+    border-block-start-color:#81d4ad;
     text-align: center;
     vertical-align: middle;
     border-radius: 50%;
     border-style: solid;
-    border-width: thin;    
+    border-width: thin; 
+       
 }
 
 .to-do:before {
     content: "\10102"; 
+    font-size: 8px;
     color: #ff0000;
     display: inline-block;
-    width: 15px;
-    height: 15px;
+    width: 10px;
+    height: 10px;
     background-color: #ffffff;
     border-block-start-color: #ff0000;
     text-align: center;
@@ -133,6 +136,7 @@ li {
     border-radius: 50%;
     border-style: solid;
     border-width: thin;  
+    
 }
 
 span {
