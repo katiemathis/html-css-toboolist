@@ -69,13 +69,27 @@ body {
     font-family: 'Outfit', sans-serif;
     font-style: bold;
     font-weight: 600;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.list-category:before {
+    content: "\25BE";
 }
 
 .itemized {
     font-size: 15px;
     font-style: normal;
     font-weight: 300;
+    list-style-type: none;
 }
 .done:before {
-    content: \2713;    
+    content: "\2713"; 
+    color: green;
+    display: inline-block;
+    border: green;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;   
 }
