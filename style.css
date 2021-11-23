@@ -26,11 +26,16 @@ body {
 
 .container {
     background-color: #fff;
-    margin: 50%;
 }
 
 .container .w-btns {
-    align-content: center;
     height: 40px;
+}
+
+#task {
+    color: #fff;
+    background-color: blue;
+    border-radius: 2px;
+    
 }
 
