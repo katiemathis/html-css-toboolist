@@ -76,3 +76,6 @@ body {
     font-style: normal;
     font-weight: 300;
 }
+.done:before {
+    content: \2713;    
+}
