@@ -35,7 +35,14 @@ body {
 #task {
     color: #fff;
     background-color: blue;
-    border-radius: 2px;
-    
+    border-color: blue;
+    border-radius: 3px;
+
+}
+
+#section {
+    color: lightgrey;
+    border-color: lightgrey;
+    border-radius: 3px;    
 }
 
