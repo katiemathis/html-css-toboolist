@@ -75,6 +75,11 @@ body {
     border-bottom-right-radius: 5px;
 }
 
+li {
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
 .list-category {
     font-size: 20px;
     font-family: 'Outfit', sans-serif;
@@ -95,10 +100,8 @@ body {
     font-style: normal;
     font-weight: 300;
     list-style-type: none;
-    padding-left: 0;
-    margin-left: 0;
-    padding-top: 6px;
-    margin-top: 6px;
+    padding: 0;
+    margin: 0;
 ;
 }
 .done:before {
@@ -124,9 +127,15 @@ body {
 }
 
 span {
-    border-radius: 20px;
+    border-radius: 10px;
     color: #fff;
-    font-size: 8;
+    font-size: 8px;    
+    padding-top: .75%;
+    padding-bottom: .75%;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-left: 4px;
+
 }
 
 .editorial {
@@ -146,6 +155,10 @@ span {
     background-color: #ffa500
 }
 
-.Wesite {
+.Website {
     background-color: #e06ee0;
+}
+
+.Sales {
+    background-color: #739442;
 }
