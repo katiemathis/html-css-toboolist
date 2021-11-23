@@ -41,7 +41,7 @@ body {
 
 #task {
     color: #fff;
-    font-size: 10px;
+    font-size: 9px;
     background-color: #5cb3ec;
     border-color: #5cb3ec;
     border-style: solid;
@@ -57,7 +57,7 @@ body {
 #section {
     color: lightgrey;
     background-color: #fff;
-    font-size: 10px;
+    font-size: 9px;
     border-color: lightgrey;
     border-style: solid;
     border-width: 1px;
