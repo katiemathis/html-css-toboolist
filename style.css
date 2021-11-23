@@ -32,10 +32,5 @@ body {
 .container .w-btns {
     align-content: center;
     height: 40px;
-    box-sizing: border-box;
 }
 
-#task {
-    color: #fff;
-    background-color: blue;
-}
