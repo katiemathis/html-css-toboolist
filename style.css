@@ -122,3 +122,30 @@ body {
     vertical-align: middle;
     border-radius: 50%;   
 }
+
+span {
+    border-radius: 20px;
+    color: #fff;
+    font-size: 8;
+}
+
+.editorial {
+    background-color: #5cb3ec;
+
+}
+
+.Q1 {
+    background-color: #663c70;
+}
+
+.Recruiting {
+    background-color: #81d4ad
+}
+
+.mobile {
+    background-color: #ffa500
+}
+
+.Wesite {
+    background-color: #e06ee0;
+}
