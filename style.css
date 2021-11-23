@@ -106,24 +106,32 @@ li {
 }
 .done:before {
     content: "\2713"; 
-    width: 10px;
-    color: green;
+    color: #1e941e;
     display: inline-block;
-    border: green;
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border-block-start-color: #1e941e;
     text-align: center;
     vertical-align: middle;
-    border-radius: 50%;   
+    border-radius: 50%;
+    border-style: solid;
+    border-width: thin;    
 }
 
 .to-do:before {
     content: "\10102"; 
-    width: 10px;
-    color: red;
+    color: #ff0000;
     display: inline-block;
-    border: red;
+    width: 15px;
+    height: 15px;
+    background-color: #ffffff;
+    border-block-start-color: #ff0000;
     text-align: center;
     vertical-align: middle;
-    border-radius: 50%;   
+    border-radius: 50%;
+    border-style: solid;
+    border-width: thin;  
 }
 
 span {
