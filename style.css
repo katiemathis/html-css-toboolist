@@ -106,6 +106,7 @@ li {
 
 .list-category:before {
     content: "\25BE";
+    margin-right: 5px;
 }
 
 .itemized {
@@ -131,7 +132,7 @@ li {
     border-radius: 50%;
     border-style: solid;
     border-width: thin; 
-       
+    margin-right: 5px;       
 }
 
 .to-do:before {
@@ -148,6 +149,7 @@ li {
     border-radius: 50%;
     border-style: solid;
     border-width: thin;  
+    margin-right: 5px;
     
 }
 
