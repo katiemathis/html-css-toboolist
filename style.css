@@ -136,7 +136,7 @@ li {
 }
 
 .to-do:before {
-    content: "\10102"; 
+    content: "\0078"; 
     font-size: 8px;
     color: #ff0000;
     display: inline-block;
