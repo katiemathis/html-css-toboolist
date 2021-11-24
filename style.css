@@ -13,15 +13,14 @@ body {
 
 #logo {
     float: left;
-    padding-left: 10px;
-    padding-right: 10px;
-    margin-top: 1%;
+    padding: 15px;
+    vertical-align: middle;
 }
 
 #title {
     font-family: 'Outfit', sans-serif;
     font-style: bold;
-    margin-top: 1.5%;
+    vertical-align: middle;
 }
 
 .container {
